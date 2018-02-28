@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DurableEveDataAggregator", "DurableEveDataAggregator.csproj", "{EE551F07-42AD-4471-AEBA-A63E6D9B761D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE551F07-42AD-4471-AEBA-A63E6D9B761D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE551F07-42AD-4471-AEBA-A63E6D9B761D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE551F07-42AD-4471-AEBA-A63E6D9B761D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE551F07-42AD-4471-AEBA-A63E6D9B761D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {202574E5-8F25-4BA7-B824-808CDEE78AB6}
+	EndGlobalSection
+EndGlobal
